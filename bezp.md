@@ -27,6 +27,8 @@
     +   10 minute mail [slajd] [demo na żywo]
     +   operator `+spam` [slajd] [demo na skrzynce]
     +   dwa osobne adresy - od pierdół i od ważnych rzeczy [slajd]
+-   symulacja działania trojana podmiejającego wpisy w hostach [demonstracja]
+-   przykłady strony pokazująca pharming
 
 # Phishing - facebook
 
@@ -62,3 +64,8 @@
 -   maile wysyłamy z BCC (ukryta kopia), jeśli do wielu
 -   NIE PISZEMY CAPSLOCKIEM
 
+
+# Ewentualne ciekawostki
+-   Wykradzione dane banku z afryki?
+-   wpisanie używanego hasła w wyszukiwarkę
+-   co się dzieje w trybie incognito (i dlaczego tak się nazywa?)
